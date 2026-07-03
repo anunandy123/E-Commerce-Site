@@ -29,10 +29,6 @@ This project was developed as a practical implementation of full-stack web devel
 - SQLite
 - Bootstrap
 
-# MyPro - Django Web Application
-
-A web application developed using the Django framework. This project demonstrates full-stack web development using Python and Django, with support for dynamic content, media handling, and database integration.
-
 ---
 
 ## 🚀 Features
